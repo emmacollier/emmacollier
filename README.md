@@ -16,6 +16,6 @@ I'm Emma Collier, a computational biologist and genomics researcher pursuing my 
 - **BSc** in Biochemistry, Queen's University  
 
 ## 📫 Let's Connect  
-📧 [Email](colliere28@gmail.com) 
-🔗 [LinkedIn](https://www.linkedin.com/in/emma-collier-a9562215b/)  
+- 📧 [Email](mailto:colliere28@gmail.com) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/emma-collier-a9562215b/)  
 
