@@ -1,16 +1,20 @@
-## Hi there 👋
+# Your Name, Degree  
+🏡 **Welcome to My GitHub Profile!**  
+I'm Emma Collier, a trained scientist in computational biology and genomics pursuing my PhD in Medical Biophysics from the University of Toronto.
 
-<!--
-**emmacollier/emmacollier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌊 About Me  
+**Background:** I have experience analyzing large next-generation sequencing datasets and correlates with clinical data using Python, R, SQL, and other mathematical and statistical languages and librarys including NumPy, Pandas, and more. My work focuses on liquid biopsy (blood) biomarker development in cancer.  
 
-Here are some ideas to get you started:
+**Interests:** Passionate about translational research and leveraging computational tools to understand complex biology. I love working on projects related to healthcare and all areas of science.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Working On...  
+- Learning Snakemake and NextFlow.  
+- Developing tools to understand HPV biology from plasma and tissue of cancer patients.  
+
+## 📚 Education  
+- PhD in Medical Biophysics from University of Toronto 
+- BSc in Biochemistry from Queen's University. 
+
+## 📫 Let's Connect  
+- **Email:** colliere28@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/emma-collier-a9562215b/ 
