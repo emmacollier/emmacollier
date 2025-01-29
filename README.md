@@ -1,20 +1,21 @@
-# Emma Collier, PhD Candidate
+# Emma Collier, PhD Candidate  
 🏡 **Welcome to My GitHub Profile!**  
-I'm Emma Collier, a trained scientist in computational biology and genomics pursuing my PhD in Medical Biophysics from the University of Toronto.
+I'm Emma Collier, a computational biologist and genomics researcher pursuing my PhD in Medical Biophysics at the University of Toronto.
 
 ## 🌊 About Me  
-**Background:** I have experience analyzing large next-generation sequencing datasets and correlates with clinical data using Python, R, SQL, and other mathematical and statistical languages and librarys including NumPy, Pandas, and more. My work focuses on liquid biopsy (blood) biomarker development in cancer.  
+**Background:** I specialize in analyzing large next-generation sequencing datasets and integrating them with clinical data. My expertise includes Python, R, SQL, and key libraries such as NumPy and Pandas. My research focuses on liquid biopsy biomarkers for cancer detection and monitoring.  
 
-**Interests:** Passionate about translational research and leveraging computational tools to understand complex biology. I love working on projects related to healthcare and all areas of science.  
+**Interests:** Passionate about translational research and using computational tools to decode complex biological systems. I enjoy working on projects related to healthcare, genomics, and computational biology.  
 
-## ⚙️ Working On...  
-- Learning Snakemake and NextFlow.  
-- Developing tools to understand HPV biology from plasma and tissue of cancer patients.  
+## ⚙️ Currently Working On...  
+- Learning **Snakemake** and **Nextflow** for scalable bioinformatics workflows.  
+- Developing tools to investigate **HPV biology** in plasma and tissue samples from cancer patients.  
 
 ## 📚 Education  
-- PhD in Medical Biophysics from University of Toronto 
-- BSc in Biochemistry from Queen's University. 
+- **PhD Candidate** in Medical Biophysics, University of Toronto  
+- **BSc** in Biochemistry, Queen's University  
 
 ## 📫 Let's Connect  
-- **Email:** colliere28@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/emma-collier-a9562215b/ 
+📧 **Email:** colliere28@gmail.com  
+🔗 **LinkedIn:** [Emma Collier](https://www.linkedin.com/in/emma-collier-a9562215b/)  
+
