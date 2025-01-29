@@ -1,4 +1,4 @@
-# Your Name, Degree  
+# Emma Collier, PhD Candidate
 🏡 **Welcome to My GitHub Profile!**  
 I'm Emma Collier, a trained scientist in computational biology and genomics pursuing my PhD in Medical Biophysics from the University of Toronto.
 
