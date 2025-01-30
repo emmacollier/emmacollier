@@ -1,6 +1,6 @@
 # Emma Collier, PhD Candidate  
 🏡 **Welcome to My GitHub Profile!**  
-I'm Emma Collier, a computational biologist and genomics researcher pursuing my PhD in Medical Biophysics at the University of Toronto.
+I'm Emma Collier, a computational biologist and cancer genomics researcher pursuing my PhD in Medical Biophysics at the University of Toronto.
 
 ## 🌊 About Me  
 **Background:** I specialize in analyzing large next-generation sequencing datasets and integrating them with clinical data. My expertise includes Python, R, SQL, and key libraries such as NumPy and Pandas. My research focuses on liquid biopsy biomarkers for cancer detection and monitoring.  
