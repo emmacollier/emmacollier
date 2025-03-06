@@ -8,8 +8,8 @@ I'm Emma Collier, a computational biologist and cancer genomics researcher pursu
 **Interests:** Passionate about translational research and using computational tools to decode complex biological systems. I enjoy working on projects related to healthcare, genomics, and computational biology.  
 
 ## ⚙️ Currently Working On...  
-- Learning **Snakemake** and **Nextflow** for scalable bioinformatics workflows.  
-- Developing tools to investigate **HPV biology** in plasma and tissue samples from cancer patients.  
+- Learning **Snakemake** for scalable bioinformatics workflows.  
+- Developing tools to investigate **HPV integration biology** in plasma and tissue samples from cancer patients.  
 
 ## 📚 Education  
 - **PhD Candidate** in Medical Biophysics, University of Toronto  
